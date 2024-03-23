@@ -1,19 +1,15 @@
 /* 
-A single double-precision number denoting .
+Input :
+A single double-precision number denoting payment.
 
-Constraints
-
-Output Format
-
+Output Format:
 On the first line, print US: u where  is  formatted for US currency.
 On the second line, print India: i where  is  formatted for Indian currency.
 On the third line, print China: c where  is  formatted for Chinese currency.
 On the fourth line, print France: f, where  is  formatted for French currency.
 
-Sample Input
-
-12324.134
-Sample Output
+Sample Input : 12324.134
+Sample Output :
 
 US: $12,324.13
 India: Rs.12,324.13
